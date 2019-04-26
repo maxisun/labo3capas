@@ -18,5 +18,6 @@
 	<label>Experiencia:</label><input type="text" name="experience"><br>
 	<input type="submit" value="Enviar">
 	</form>
+	<h2>Envie el formulario con todos los parametros para ver easter egg</h2>
 </body>
 </html>
